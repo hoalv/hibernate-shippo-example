@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="shippo_vn_1905@192.168.10.210" uuid="c7712cd9-70dd-44d4-a9ed-8bae586220a4">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://192.168.10.210:5432/shippo_vn_1905</jdbc-url>
+    </data-source>
+  </component>
+</project>
